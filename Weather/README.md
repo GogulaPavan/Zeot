@@ -25,10 +25,15 @@ This project is a weather monitoring system built with Streamlit and OpenWeather
 - **API:** OpenWeatherMap API
 - **Database:** SQLite (local database)
   
-## Installation
+##Test results
 
-### Step 1: Clone the Repository
-Clone the GitHub repository to your local machine.
-```bash
-git clone https://github.com/GogulaPavan/Weather-Monitoring-System.git
-cd Weather-Monitoring-System
+
+![image](https://github.com/user-attachments/assets/4d7b62a3-1e90-426a-9775-bbb5f7349e52)
+![image](https://github.com/user-attachments/assets/d5cc687a-0a03-4d41-97a1-1a968181410e)
+![image](https://github.com/user-attachments/assets/436d6271-bbc8-4718-91fd-a71d4daf8b17)
+![image](https://github.com/user-attachments/assets/107ca928-c8cb-4e21-ba23-05b378ba01fc)
+
+
+
+
+
