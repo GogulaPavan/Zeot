@@ -1,0 +1,10 @@
+
+### 3. **Dependencies (requirements.txt)**
+
+Ensure you have a `requirements.txt` file that includes all necessary Python dependencies:
+
+```txt
+streamlit==1.24.0
+requests==2.31.0
+pandas==2.0.3
+sqlite3==0.1.0
